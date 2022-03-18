@@ -1,0 +1,6 @@
+127.0.0.1 - - [09/Mar/2022:14:33:13 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 58 http-bio-81-exec-1 1084
+127.0.0.1 - - [09/Mar/2022:14:34:47 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 58 http-bio-81-exec-1 1238
+127.0.0.1 - - [09/Mar/2022:14:35:28 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 58 http-bio-81-exec-1 1184
+127.0.0.1 - - [09/Mar/2022:14:35:50 +0800] "PUT /auth/api/validatephone?user=15033134984&code=3226 HTTP/1.0" 403 961 http-bio-81-exec-2 8
+127.0.0.1 - - [09/Mar/2022:14:45:34 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 58 http-bio-81-exec-1 1421
+127.0.0.1 - - [09/Mar/2022:14:45:48 +0800] "PUT /auth/api/validatephone?user=15033134984&code=94 HTTP/1.0" 200 58 http-bio-81-exec-2 9
